@@ -8,12 +8,9 @@
 |42周|14|15|16|17|18|19|20|
 |43周|21|22|23|24|25|26|27|
 |44周|28|29|30|||||
----
-
-
 
 
 ---
 ### [上个月](https://github.com/queenta/goddog/blob/master/Sep.md)
-### [返回](https://github.com/queenta/goddog/blob/master/README.md)
+### [首页](https://github.com/queenta/goddog/blob/master/README.md)
 ### [下个月](https://github.com/queenta/goddog/blob/master/Nov.md)
