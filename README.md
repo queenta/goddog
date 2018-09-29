@@ -8,4 +8,4 @@
   今天的自己看着昨天，悔不当初；为了不让明天的自己继续无错，也只能将今天的自己利用到极致，也只能如此了！
 ```
 
-# [9月份](http://github.com/queenta/goddog/Sep.md)
+# [9月份](https://github.com/queenta/goddog/blob/master/Sep.md)
