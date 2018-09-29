@@ -9,3 +9,6 @@
 ```
 
 # [9月份](https://github.com/queenta/goddog/blob/master/Sep.md)
+---
+# [10月份](https://github.com/queenta/goddog/blob/master/Oct.md)
+---
