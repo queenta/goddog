@@ -8,13 +8,11 @@
   今天的自己看着昨天，悔不当初；为了不让明天的自己继续无错，也只能将今天的自己利用到极致，也只能如此了！
 ```
 
-# [9月份](https://github.com/queenta/goddog/blob/master/Sep.md)
 ---
-# [10月份](https://github.com/queenta/goddog/blob/master/Oct.md)
----
+
 |时|间|轴|
 |:---:|:---:|:---:|
-|一月|二月|三月|
-|四月|五月|六月|
-|七月|八月|[9月份](https://github.com/queenta/goddog/blob/master/Sep.md)|
-|[10月份](https://github.com/queenta/goddog/blob/master/Oct.md)|十一月|十二月|
+|1月份|2月份|3月份|
+|4月份|5月份|6月份|
+|7月份|8月份|[9月份](https://github.com/queenta/goddog/blob/master/Sep.md)|
+|[10月份](https://github.com/queenta/goddog/blob/master/Oct.md)|11月份|12月份|
